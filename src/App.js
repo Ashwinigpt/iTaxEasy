@@ -17,7 +17,7 @@ function App() {
         <Login isLoggingIn={isLoggingIn} />
         <Footer isLoggingIn={isLoggingIn} toggleLoggingIn={toggleLoggingIn} />
       </div>
-      <Aside />
+      <Aside isLoggingIn={isLoggingIn} />
     </div>
   );
 }
