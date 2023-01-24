@@ -2,11 +2,8 @@ import React from "react";
 
 function Hero() {
   return (
-    <div>
-      <p className="hero">
-        This is a real app with Node.js backend - use{" "}
-        <strong> "admin@flatlogic.com / password" </strong>to login!
-      </p>
+    <div className="about-sec1">
+      <h2 className="heroic-text">About Us</h2>
     </div>
   );
 }
