@@ -403,26 +403,28 @@ a {
   border-radius: 40px;
 }
 
-/* Profile */
+/* Mission */
 
 .home-sec6 {
   padding: 6rem 0;
   text-align: center;
 }
 
-.home-sec6-img {
-  height: 140px;
-  width: 150px;
-  border-radius: 50%;
-  border: 8px solid #022d5b;
+.home-sec6 h2{
+  text-align: center;
+  font-weight: 700;
+  color: rgb(25,29,52);
 }
 
-.gome-sec6-p {
-  max-width: 600px;
-  margin: 0 auto;
-  font-size: 18px;
+.home-sec6-p {
+  font-size: 17px;
   font-weight: 600;
   color: #022d5b;
+  text-align: center;
+  padding: 2rem 5rem;
+}
+.sec-para{
+  margin-top: 2rem;
 }
 
 .home-sec6 div {
@@ -704,4 +706,3 @@ footer .footer-copyright small {
 .flex-100 {
   flex: 0 1 100%;
 }
-
