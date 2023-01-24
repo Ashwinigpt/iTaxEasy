@@ -6,10 +6,8 @@ function Main() {
       <div className="container2 flex">
         <div>
           <img
-            src="https://itaxeasy.com/img/about.jpg"
+            src="https://www.teachhub.com/wp-content/uploads/2020/09/Sept-9-Benefits-of-Group-Work_web.jpg"
             alt=""
-            height="200"
-            width="200"
             className="home-sec3-img"
           />
         </div>
